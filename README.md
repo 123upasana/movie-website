@@ -1,5 +1,5 @@
 # movie-website
-i hope you love thid design
+i hope you love this anime movie design
 ![Capture1](https://github.com/123upasana/movie-website/assets/150341662/d8ad4306-2185-4ea6-b9b3-c9f4ce5faf5f)
 -> this is actually a video of anime movies....
 ![Capture](https://github.com/123upasana/movie-website/assets/150341662/70e880be-3731-4126-b7eb-d3a5b6d7d056)
